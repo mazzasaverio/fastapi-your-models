@@ -1,0 +1,5 @@
+fastapi==0.109.0
+loguru==0.7.2
+pip-chill==1.0.3
+scikit-learn==1.4.0
+uvicorn==0.27.0.post1
